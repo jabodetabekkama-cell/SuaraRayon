@@ -1,0 +1,6 @@
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{font-family:Inter,system-ui,sans-serif;background:#f8fafc;color:#1e293b}
+.ab p{margin-bottom:1.1rem;line-height:1.8;color:#334155}
+.ab h2{font-size:1.4rem;font-weight:700;color:#0F2C59;margin:1.5rem 0 .6rem}
+.ab blockquote{border-left:4px solid #FACC15;background:#FEFCE8;font-style:italic;padding:.5rem 1rem;margin-bottom:1.1rem;border-radius:0 .4rem .4rem 0}
